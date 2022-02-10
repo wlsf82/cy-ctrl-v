@@ -1,0 +1,20 @@
+{
+  "name": "cy-ctrl-v",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate the usage of the `cy.invoke` command, to overwrite the value of a `textarea` field.",
+  "main": "index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress.io",
+    "cy.handsOn()",
+    "Talking About Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
